@@ -1,5 +1,4 @@
-# laboratorio-de-iniciacao-a-programacao
-Laboratorio de Iniciação à Programação
+
 
 # Perfil GitHub - [Tiago Reis Vieira]
 
